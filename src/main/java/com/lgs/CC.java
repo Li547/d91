@@ -7,4 +7,7 @@ package com.lgs;
  * @Version 1.0
  **/
 public class CC {
+    public static void main(String[] args) {
+
+    }
 }
